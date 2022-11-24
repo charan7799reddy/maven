@@ -1,0 +1,9 @@
+web hook concept 
+first stp is-go to github webhook then givee payload url of jenkins and /github-webhook/
+after that save as jason format 
+then give pull req only 
+go to jenkins jobs And give configurations 1. inn decription git hub project
+                                           2.source code management git
+                                           3.build triggers github hook for gitscm polling
+                                           4.after that changes in github also changes occur in jenkins.
+                           "this is web hook concept in jenkins using with github"
